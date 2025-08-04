@@ -4,11 +4,9 @@ This project is an AI-powered virtual assistant that helps users prepare recipes
 
 IBM Watson Assistant – for conversation flow and recipe instructions
 
-IBM Cloud Functions / Node-RED (optional) – for backend logic and API handling
 
-Cloud Foundry or IBM App Services – for deployment
 
-IBM Cloudant (optional) – for storing recipe data
+Cloud Foundry or IBM App Services 
 
 
 🎯 Features
